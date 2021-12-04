@@ -1,0 +1,10 @@
+/home/runner/Obserwator/obj/Debug/netcoreapp5.0/main.csprojAssemblyReference.cache
+/home/runner/Obserwator/obj/Debug/netcoreapp5.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Obserwator/obj/Debug/netcoreapp5.0/main.AssemblyInfoInputs.cache
+/home/runner/Obserwator/obj/Debug/netcoreapp5.0/main.AssemblyInfo.cs
+/home/runner/Obserwator/obj/Debug/netcoreapp5.0/main.csproj.CoreCompileInputs.cache
+/home/runner/Obserwator-MikolajDuszyk/obj/Debug/netcoreapp5.0/main.csprojAssemblyReference.cache
+/home/runner/Obserwator-MikolajDuszyk/obj/Debug/netcoreapp5.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Obserwator-MikolajDuszyk/obj/Debug/netcoreapp5.0/main.AssemblyInfoInputs.cache
+/home/runner/Obserwator-MikolajDuszyk/obj/Debug/netcoreapp5.0/main.AssemblyInfo.cs
+/home/runner/Obserwator-MikolajDuszyk/obj/Debug/netcoreapp5.0/main.csproj.CoreCompileInputs.cache
